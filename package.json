@@ -1,0 +1,12 @@
+{
+  "name": "tasks-tests",
+  "version": "1.0.0",
+  "description": "Tests for the Tasks sample application",
+  "main": "tests.js",
+  "author": "Jaime Garcia Ramirez",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^1.1.1",
+    "sync-request": "^3.0.0"
+  }
+}
