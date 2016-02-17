@@ -2,7 +2,9 @@
 
 Create this very simple Spring application (start with just the backend as a set of REST endpoints)
 
-To execute these tests your application needs to be running on `http://localhost:8080` with no context path.
+To execute these tests your application needs to be running on `http://localhost:8080` with no context path. You need to have NodeJS and npm installed. These can be acquired here: https://nodejs.org
+
+Install dependencies by running `npm install` and then run the tests by using `node tests.js`
 
 From a business requirements perspective here’s what I would have it do first
   
